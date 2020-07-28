@@ -25,7 +25,7 @@ Este script permite comparar dos estructuras similares o iguales con el fin de u
 Se debe agregar la información de cada dataset, con los mismos nombre de campos y sin duplicados.
 Finalmente se debe ejecutar el script el cual genera 3 archivos excel  de salida y uno por cada comparativa.
 
-### Versión Estudiantes
+## Versión Estudiantes
 En esta versión se comparan dos data set de un listado de estudiantes <<ComparacionFileAFileB_Estudiantes.xlsx>>
 
     Campos Dataset A:  ['id', 'school', 'sex', 'age', 'address', 'name', 'Pstatus', 'Medu', 'Fedu', 'Mjob', 'latitud', 'longitud']
